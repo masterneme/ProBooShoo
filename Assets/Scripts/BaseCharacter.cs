@@ -22,6 +22,11 @@ public class BaseCharacter : MonoBehaviour
     [SerializeField] private AudioSource alertSound;
     [SerializeField] private AudioSource painSound;
     [SerializeField] private AudioSource actionSound;
+
+    [Header("Extra Options")]
+    [SerializeField] private bool gibWhenDead;
+    [SerializeField] private float gibThreshold;
+    [SerializeField] private bool flipbookAngle;
     private void Start()
     {
         
