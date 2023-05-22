@@ -17,6 +17,11 @@ public class BaseCharacter : MonoBehaviour
     [SerializeField] private Animation aimAnimation;
     [SerializeField] private Animation attackAnimation;
     [SerializeField] private Animation painAnimation;
+
+    [Header("Character Sounds")]
+    [SerializeField] private AudioSource alertSound;
+    [SerializeField] private AudioSource painSound;
+    [SerializeField] private AudioSource actionSound;
     private void Start()
     {
         
