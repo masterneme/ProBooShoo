@@ -10,6 +10,7 @@ public class BaseCharacter : MonoBehaviour
     [SerializeField] private float painTime;
     [SerializeField] private int mass;
     [SerializeField] private bool isDead;
+
     private void Start()
     {
         
@@ -17,5 +18,25 @@ public class BaseCharacter : MonoBehaviour
     private void Update()
     {
         
+    }
+    private void CalculateHealth()
+    {
+        return;
+    }
+    private void CalculateDeath()
+    {
+        return;
+    }
+    private void SpawnCorpse()
+    {
+        return;
+    }
+    private void CalculatePain()
+    {
+        return;
+    }
+    private void SpawnPickup()
+    {
+        return;
     }
 }
