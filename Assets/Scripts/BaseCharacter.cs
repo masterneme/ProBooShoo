@@ -11,6 +11,12 @@ public class BaseCharacter : MonoBehaviour
     [SerializeField] private int mass;
     [SerializeField] private bool isDead;
 
+    [Header("Character Flipbooks")]
+    [SerializeField] private Animation idleAnimation;
+    [SerializeField] private Animation moveAnimation;
+    [SerializeField] private Animation aimAnimation;
+    [SerializeField] private Animation attackAnimation;
+    [SerializeField] private Animation painAnimation;
     private void Start()
     {
         
