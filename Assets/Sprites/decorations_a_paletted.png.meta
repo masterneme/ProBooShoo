@@ -1,0 +1,1771 @@
+fileFormatVersion: 2
+guid: 392cc1f7048db1145b870b2aaf69bf70
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: decorations_a_paletted_0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 663
+        width: 27
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdf4827058f57948aa021c6be408298
+      internalID: 1542957766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 663
+        width: 27
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a50a998a4733f46b8bb1747cb7dcea
+      internalID: 683549695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 663
+        width: 27
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954b1e1cc7d10224881212147e560f41
+      internalID: -2089682642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 663
+        width: 27
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16830a9ff1a7a604abbabb63974d4860
+      internalID: 175314121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 663
+        width: 21
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ec66f4af8c141459aecd5b46f7f194
+      internalID: 178810944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 663
+        width: 18
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5411d07176091cb4db7f73ffe76a4a29
+      internalID: -1346013559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 663
+        width: 22
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94dbca484d5ca14ba708bfaec6f9498
+      internalID: 1623544208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 700
+        width: 8
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cedcfcdc2335b14cbfffee51b223000
+      internalID: -1251765563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_10
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 700
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f14769defae8948a52a8591fe9b59d
+      internalID: -263288034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 699
+        width: 8
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d277bd6d9bbfa0647b963b2f917db400
+      internalID: 253684930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 663
+        width: 19
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459dbe9d2055fc64f822a2c36e196624
+      internalID: 28947563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 665
+        width: 6
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eb02b559d3d7d479270bcabdd57800
+      internalID: 1403771257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 578
+        width: 18
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791cf0b70d29c374e85ed41fd512bc60
+      internalID: 443947040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 578
+        width: 16
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee41043df24cd9541a460a0226e2ceaf
+      internalID: 2098102934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 578
+        width: 16
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be35c43a210ee924794658bdf99edfd2
+      internalID: -1624916631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 578
+        width: 19
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df18e5d0d020c464ab3c01bff32c73bb
+      internalID: 122609113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 553
+        width: 23
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d890c29e56fe44a9f633d729641a1e
+      internalID: -907323251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 554
+        width: 23
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36f2455fc12899459422c2d326353cf
+      internalID: -765462557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 554
+        width: 23
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3265ca690b950e04382c14404d2c5957
+      internalID: 700757564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 554
+        width: 23
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84da1a67fc24264b9217955eee23b2e
+      internalID: -2007902007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 555
+        width: 18
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97c1f3503420584dab1a74b7431d96b
+      internalID: 1568162047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 489
+        width: 20
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bbfd57dffa91449a4a442ea598133a
+      internalID: 1287413101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 489
+        width: 21
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb08cbad9f5f894faa34a8c9ce2c45e
+      internalID: 1883311836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 489
+        width: 18
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fb15aac558ae947b3186670a3e7851
+      internalID: -629172243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 459
+        width: 24
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc5a25321bebfe43bf8fdfc88682097
+      internalID: 1335273347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 459
+        width: 24
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ed6b7689ce9864aa889676e75ce9aa
+      internalID: 748393956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 459
+        width: 24
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a7b7638b98ca943aa6810648ca6e4e
+      internalID: 1321074966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 459
+        width: 24
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213515fad1e1f6a478ce6da72188e107
+      internalID: -747787250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 489
+        width: 18
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3002950184e8eac47a6597fd1f069aee
+      internalID: 1157267653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_35
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 459
+        width: 35
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdba8e3390eaa441b3ed97b9c5ee7fd
+      internalID: 2139487942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_36
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 410
+        width: 23
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdb412b2a3d25b419c4e387a55c23b4
+      internalID: -782314922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 410
+        width: 23
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778f63282be234c4c8433e759c6a9562
+      internalID: 1737149852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_38
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 410
+        width: 23
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261bcee75fda2f641aee3d76fc452f6f
+      internalID: -813491019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 447
+        width: 11
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10264966202fb5e419adfb017985ef2d
+      internalID: 1144504253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 449
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9672d0b016057dd45a9a7b49932d7bbc
+      internalID: -1188196556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 399
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4150efccd25720c47aa01d961bc034c6
+      internalID: 384422715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_42
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 400
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4ce8679a408534888e97c1c133b6cc
+      internalID: -862867951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 379
+        width: 73
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea560df153ad1e40b8cae0789821daf
+      internalID: -103283317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_44
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 324
+        width: 19
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f17fd7da1aa654ea1cc4fad04f7158
+      internalID: -717842663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_45
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 333
+        width: 22
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b374394a06d6ea44a8b1ac17533a6f7c
+      internalID: -1648340368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_46
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 325
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fb2f111ea4704448c7d4b55582438b
+      internalID: 1196633841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 325
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382a832630ca9f540ac3220d9079d178
+      internalID: -987040531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_48
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 324
+        width: 32
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f51b4ccb4481147837de47c4b19266
+      internalID: 1545283132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 325
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030eac4f025a54d4688ffe2c358f8529
+      internalID: 1570241485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_50
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 325
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002f1f49def339646aa73b0eff98322b
+      internalID: 1646957340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_51
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 325
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ffcbf39194f3f4f909271f66219224
+      internalID: 774434841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_52
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 325
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16167e709b3c80d4b9d8b3bbfafa4fac
+      internalID: -2065138692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_53
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 325
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62492944c81d0646ae28f6a007209eb
+      internalID: -1601297533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_54
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 326
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e26062921b2c3498cfe3a15e40d187
+      internalID: -35912928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_55
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 123
+        width: 111
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede1be6c4c8a4624ab2d2ba7d45d9e8b
+      internalID: -111798291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_56
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 273
+        width: 53
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb1ef685e4baa54da58f9c8582bde31
+      internalID: -80298206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 273
+        width: 58
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7038b2d30510e4ca2e20b0c465bd61
+      internalID: 1138588339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_58
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 273
+        width: 24
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e1764129cd29648bd25e3ddabc691c
+      internalID: 825261751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_59
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 123
+        width: 85
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520c205a2659ebb45877e288f2cdbfcd
+      internalID: 1865343893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_60
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 123
+        width: 36
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e92e2f0256b79438649cb290351527
+      internalID: 1490133974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_61
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 234
+        width: 47
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dfc832eb55bb447b4067f5dbb4add0
+      internalID: 820176879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_62
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 233
+        width: 49
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904df9f6ad7414647ab0b5f8c88a4811
+      internalID: 1943558904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_63
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 125
+        width: 64
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558945f47afd2b541a5c0659a969f720
+      internalID: -994721591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_64
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 158
+        width: 53
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8de9c754fc36c40ad071d11acc7e34
+      internalID: -336356914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_65
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 124
+        width: 54
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8486a01739c1f3941a937564d4b2af2a
+      internalID: -2127903733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 69
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f811a8890e6bb4eb681e166a2d35ea
+      internalID: 2084195018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_67
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 71
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13ac9d72fcd0444a909fff976cd08bb
+      internalID: 2042055819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_68
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 70
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a028be14e3aa53499d361f382f25606
+      internalID: 726104362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_69
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 71
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979de1ce230683c40b2406e4e7bb7fa2
+      internalID: -1977638111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_70
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 72
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db413d988a5f70644b1795ce29a343c8
+      internalID: 1159364647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_71
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 72
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8310b78e66c308046ababf6bfceebb82
+      internalID: -1571306289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_72
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 70
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac8152741f79948ab151b86d343c0e
+      internalID: -1640390649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_74
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 37
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6f37f1bae4dd542a9e0d13a60d7da2
+      internalID: -1351188178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_75
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 37
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d195b4c80af2f4d96430504baacf8c
+      internalID: -494665373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_76
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 37
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b970b61a099b83c4eba98b522e08610e
+      internalID: 261128955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_77
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 25
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72327995e1bc0e5498b39ddb5faef9af
+      internalID: -1870210051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_79
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e4d449c32048e40ac90a346a9cc6ca
+      internalID: -1376643567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_80
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 24
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c9e6801e796274c800a3a16588774d
+      internalID: -385977448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations_a_paletted_81
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 26
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfca09b48eaea7f44a00d6bd319099e4
+      internalID: -320925290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      decorations_a_paletted_0: 1542957766
+      decorations_a_paletted_1: 683549695
+      decorations_a_paletted_10: -263288034
+      decorations_a_paletted_11: 253684930
+      decorations_a_paletted_12: 28947563
+      decorations_a_paletted_13: 1403771257
+      decorations_a_paletted_14: 443947040
+      decorations_a_paletted_15: 2098102934
+      decorations_a_paletted_16: -1624916631
+      decorations_a_paletted_17: -2055011147
+      decorations_a_paletted_18: 122609113
+      decorations_a_paletted_19: -907323251
+      decorations_a_paletted_2: -2089682642
+      decorations_a_paletted_20: -1036590446
+      decorations_a_paletted_21: -765462557
+      decorations_a_paletted_22: 700757564
+      decorations_a_paletted_23: -2007902007
+      decorations_a_paletted_24: 1568162047
+      decorations_a_paletted_25: 1287413101
+      decorations_a_paletted_26: 1883311836
+      decorations_a_paletted_27: -629172243
+      decorations_a_paletted_28: 382968794
+      decorations_a_paletted_29: 1335273347
+      decorations_a_paletted_3: 175314121
+      decorations_a_paletted_30: 748393956
+      decorations_a_paletted_31: 1321074966
+      decorations_a_paletted_32: -747787250
+      decorations_a_paletted_33: 950940535
+      decorations_a_paletted_34: 1157267653
+      decorations_a_paletted_35: 2139487942
+      decorations_a_paletted_36: -782314922
+      decorations_a_paletted_37: 1737149852
+      decorations_a_paletted_38: -813491019
+      decorations_a_paletted_39: 1144504253
+      decorations_a_paletted_4: 93550224
+      decorations_a_paletted_40: -1188196556
+      decorations_a_paletted_41: 384422715
+      decorations_a_paletted_42: -862867951
+      decorations_a_paletted_43: -103283317
+      decorations_a_paletted_44: -717842663
+      decorations_a_paletted_45: -1648340368
+      decorations_a_paletted_46: 1196633841
+      decorations_a_paletted_47: -987040531
+      decorations_a_paletted_48: 1545283132
+      decorations_a_paletted_49: 1570241485
+      decorations_a_paletted_5: 178810944
+      decorations_a_paletted_50: 1646957340
+      decorations_a_paletted_51: 774434841
+      decorations_a_paletted_52: -2065138692
+      decorations_a_paletted_53: -1601297533
+      decorations_a_paletted_54: -35912928
+      decorations_a_paletted_55: -111798291
+      decorations_a_paletted_56: -80298206
+      decorations_a_paletted_57: 1138588339
+      decorations_a_paletted_58: 825261751
+      decorations_a_paletted_59: 1865343893
+      decorations_a_paletted_6: -1346013559
+      decorations_a_paletted_60: 1490133974
+      decorations_a_paletted_61: 820176879
+      decorations_a_paletted_62: 1943558904
+      decorations_a_paletted_63: -994721591
+      decorations_a_paletted_64: -336356914
+      decorations_a_paletted_65: -2127903733
+      decorations_a_paletted_66: 2084195018
+      decorations_a_paletted_67: 2042055819
+      decorations_a_paletted_68: 726104362
+      decorations_a_paletted_69: -1977638111
+      decorations_a_paletted_7: 697146196
+      decorations_a_paletted_70: 1159364647
+      decorations_a_paletted_71: -1571306289
+      decorations_a_paletted_72: -1640390649
+      decorations_a_paletted_73: 1224977421
+      decorations_a_paletted_74: -1351188178
+      decorations_a_paletted_75: -494665373
+      decorations_a_paletted_76: 261128955
+      decorations_a_paletted_77: -1870210051
+      decorations_a_paletted_78: -340674041
+      decorations_a_paletted_79: -1376643567
+      decorations_a_paletted_8: 1623544208
+      decorations_a_paletted_80: -385977448
+      decorations_a_paletted_81: -320925290
+      decorations_a_paletted_9: -1251765563
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

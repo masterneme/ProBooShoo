@@ -27,30 +27,37 @@ public class BaseCharacter : MonoBehaviour
     [SerializeField] private bool gibWhenDead;
     [SerializeField] private float gibThreshold;
     [SerializeField] private bool flipbookAngle;
+
     private void Start()
     {
         
     }
+
     private void Update()
     {
         
     }
+
     private void CalculateHealth()
     {
         return;
     }
+
     private void CalculateDeath()
     {
         return;
     }
+
     private void SpawnCorpse()
     {
         return;
     }
+
     private void CalculatePain()
     {
         return;
     }
+    
     private void SpawnPickup()
     {
         return;
